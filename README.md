@@ -1,7 +1,7 @@
 # DigitalNetwork Spring Boot Project
 
 Welcome to the DigitalNetwork Spring Boot project! This project aims to demonstrate 
-the basic functionaliy and structure of a Spring Boot application.
+the basic functionality and structure of a Spring Boot application.
 
 ## Disclaimer
 
