@@ -1,17 +1,16 @@
 # DigitalNetwork Spring Boot Project
 
-Welcome to the DigitalNetwork Spring Boot project! This project aims to demonstrate 
-the basic functionality and structure of a Spring Boot application.
+ This project aims to demonstrate the basic functionality and structure of a Spring Boot application.
 
 ## Disclaimer
 
 1.  This code is not original and was developed by following instructions from the Udemy course
- **"Master Microservices with Spring Boot and Spring Cloud"**  by Ranga Karanam.
+"Master Microservices with Spring Boot and Spring Cloud"  by Ranga Karanam.
 2. The course covers various topics related to  REST WEB SERVICES with Spring Boot, and it spans 22 hours on-demand video.
 3. In some cases, modifications or adaptations have been made to the original code to fit specific requirements
 or enhance functionality.
 4. To access the original course materials and learn more, please refer to the
-**"Master Microservices with Spring Boot and Spring Cloud"**. available
+"Master Microservices with Spring Boot and Spring Cloud". available
 here (https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)
 
 ## Project Structure
